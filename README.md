@@ -5,6 +5,7 @@ Add, Subtract, Mult, Divide, display results
 
 ## How to run
 
-Run: python3 calculator.py
+Run: ./run.sh
+Stop: Ctrl + C
 Enter first number, Operator, then next number
 Program prints results
