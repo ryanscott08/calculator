@@ -8,3 +8,4 @@ Add, Subtract, Mult, Divide, display results
 Run: python3 calculator.py
 Enter first number, Operator, then next number
 Program prints results
+Test with ./check.sh
